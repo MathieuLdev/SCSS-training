@@ -1,0 +1,19 @@
+{
+  "name": "scss-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./main.scss:./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathieuLdev/SCSS-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathieuLdev/SCSS-training/issues"
+  },
+  "homepage": "https://github.com/MathieuLdev/SCSS-training#readme"
+}
